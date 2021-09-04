@@ -5,6 +5,6 @@ No es ni más ni menos que una API con una cantidad de código muy reducida resp
 
 A diferencia de otros lenguajes, crear una API en C# tiene un “ritual” en el que en el Program.cs configuramos lo relativo al host ( si no lo tenemos en un proyecto aparte, que es lo recomendable )  y especificamos que vamos a usar nuestra clase Startup.
 
-[Puedes leer el artículo completo aquí](https://vernegroup.com/)
+[Puedes leer el artículo completo aquí](https://blogvisionarios.com/e-learning/articulos-data/net-6-minimal-api-la-nueva-manera-de-hacer-apis/)
 
-Artículo pendiente de publicación
+
